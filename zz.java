@@ -4,7 +4,7 @@ class prg{
 
 public void main()
   {
-    int a=30;
+    int a=20;
     System.out.println(a);
   }
 
