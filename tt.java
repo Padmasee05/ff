@@ -5,7 +5,7 @@ class prg{
 
 public void main()
   {
-    int a=25;
+    int a=100;
     System.out.println(a);
   }
 
